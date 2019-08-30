@@ -6,6 +6,9 @@ public class Hello {
 		// TODO Auto-generated method stub
 		
 		System.out.println(" This is my first Progaram");
+		
+		
+		System.out.println("This is My Office system");
 
 	}
 
